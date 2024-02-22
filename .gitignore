@@ -1,6 +1,7 @@
 /venv
 /lightning_logs
 /catboost_info
+/scripts_exp
 logs.log
 apuntes.txt
 pycaret.ipynb
