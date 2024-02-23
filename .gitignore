@@ -2,7 +2,8 @@
 /lightning_logs
 /catboost_info
 /scripts_exp
-best_model_weights.h5
 logs.log
 apuntes.txt
 pycaret.ipynb
+lstm.ipynb
+best_model_weights.h5
